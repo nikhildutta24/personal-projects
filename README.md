@@ -10,6 +10,6 @@ This repository serves as an index of my personal projects, each including its o
 Analyzes trends in movie ratings and builds a machine learning model to predict ratings using specific parameters in movie metadata sourced from Kaggle.
 [View Project] ()
 
-*(More projects coming soon!)
+*(More projects coming soon!)*
 
 Thank you for looking at my work!
