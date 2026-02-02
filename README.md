@@ -1,6 +1,6 @@
 # Personal Projects Portfolio
 
-Hello there! I'm Nikhil Dutta, a Virginia Tech student double majoring in Comoputer Science and Statistics interested in data analytics and implementing statistical strategies to create actionable insights.
+Hello there! I'm Nikhil Dutta, a Virginia Tech student double majoring in Computer Science and Statistics interested in data analytics and implementing statistical strategies to create actionable insights.
 This repository serves as an index of my personal projects, each including its own dedicated README explaining the problem, my own approach, and the results. I'm excited to share with you!
 
 ## Projects
