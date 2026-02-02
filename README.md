@@ -8,6 +8,7 @@ This repository serves as an index of my personal projects, each including its o
 ### Movie Rating Explorer & Predictor
 **Technologies/Libraries:** Python, pandas, scikit-learn, NumPy, Jupyter Notebooks
 Analyzes trends in movie ratings and builds a machine learning model to predict ratings using specific parameters in movie metadata sourced from Kaggle.
+
 [View Project] ()
 
 *(More projects coming soon!)*
