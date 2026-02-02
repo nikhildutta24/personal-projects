@@ -1,16 +1,16 @@
 # Personal Projects Portfolio
 
-Hello there! I'm Nikhil Dutta, a Virginia Tech student double majoring in Computer Science and Statistics interested in data analytics and implementing statistical strategies to create actionable insights.
-This repository serves as an index of my personal projects, each including its own dedicated README explaining the problem, my own approach, and the results. I'm excited to share with you!
+I'm Nikhil Dutta, a Virginia Tech student double majoring in Computer Science and Statistics, interested in data analytics and machine learning. I enjoy building data-driven models and applying statistical techniques to extract actionable insights from real-world datasets.
+
+This repository serves as an index of my personal projects. Each project includes its own dedicated README explaining the problem, approach, and results.
 
 ## Projects
 
-### Movie Rating Explorer & Predictor
-**Technologies/Libraries:** Python, pandas, scikit-learn, NumPy, Jupyter Notebooks
-Analyzes trends in movie ratings and builds a machine learning model to predict ratings using specific parameters in movie metadata sourced from Kaggle.
+###  Movie Ratings Explorer & Predictor
+**Technologies/Libraries:** Python, pandas, NumPy, scikit-learn, Jupyter Notebooks  
 
-[View Project] ()
+An end-to-end data analysis and machine learning project that explores trends in movie ratings and trains a regression model to predict ratings using features derived from movie metadata sourced from Kaggle. The project includes data cleaning, feature engineering, model training, and evaluation using standard regression metrics.
+
+👉 [View Project](https://github.com/nikhildutta24/movie-ratings-predictor)
 
 *(More projects coming soon!)*
-
-Thank you for looking at my work!
