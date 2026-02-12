@@ -8,6 +8,7 @@ This repository serves as an index of my personal projects. Each project include
 
 ### Fantasy Football Power Rankings & Visualizer
 **Technologies/Libraries:** Python, pandas, scikit-learn
+
 👉 [View Project](https://github.com/nikhildutta24/fantasy_football_power_rankings/)
 
 ###  Movie Ratings Explorer & Predictor
